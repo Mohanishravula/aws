@@ -14,7 +14,7 @@ This is too create user and customize their logs on Organisational or to handle 
    - After creating **user pool** with all the required attributes requiered to signup,signin,Change(Reset) Password,authorization,....more in **Amazon Cognito** we get,
 
         -**UserPool ID** 
-        - **ARN** - ID
+        -**ARN** - ID
 3. After creating  **user pool** under **APP Integration** we have to give **Client Name** for app  ,from here we get auto generated **Client ID** after app integration process.
 
 
