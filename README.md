@@ -74,20 +74,25 @@ curl --location --request POST 'http://localhost:3000/auth/Resetpassword' \
 
 # Screenshots
 
-
+## Cloud Pool Details
 ![Cloud Pool Details](./images/Screenshot%20(40).png)
 
+## API on postman after hitting signup
 ![API on postman after hitting signup](./images/Screenshot%20(39).png)
 
+## Email after successfull Signup
 ![Email after successfull Signup](./images/Screenshot%20(37).png)
 
+## User who are Added to pool, fter signup there status is initialised to `Force change Password` and after signup there status to `Confirmed`
 ![User who are Added to pool, fter signup there status is initialised to `Force change Password` and after signup there status to `Confirmed` ](./images/Screenshot%20(41).png)
 
-
+## UI for Sigin
 ![UI for Sigin](./images/Screenshot%20(43).png)
 
+## API on postman after hitting Reset Password
 ![API on postman after hitting Reset Password](./images/Screenshot%20(38).png)
 
 
+## Verification code After hitting Reset password
 ![Verification code After hitting Reset password ](./images/Screenshot%20(35).png)
 
