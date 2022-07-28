@@ -40,7 +40,7 @@ This is too create user and customize their logs on Organisational or to handle 
 
 # cURL
 
-## API Call for Signup
+### API Call for Signup
    - After signup there status is initialised to `Force change Password` and after signup there status to `Confirmed` with implies they are signin Successfully .
    - After Signup they will get the Email with **Username** and **Temperory Password**,Using Cognito UI for signin you need to update Your password for first time Users
 
@@ -56,9 +56,9 @@ curl --location --request POST 'http://localhost:3000/auth/signup' \
 ```
 ````
 
-## API Call for Reset Password
+### API Call for Reset Password
 
--After hitting `ResetPassword` API we will recieve an verification code to reset our password under autherisation code
+- After hitting `ResetPassword` API we will recieve an verification code to reset our password under autherisation code
 
 ````
 ```
